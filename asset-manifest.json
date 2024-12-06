@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/hungr/static/css/main.f855e6bc.css",
-    "main.js": "/hungr/static/js/main.46869126.js",
+    "main.js": "/hungr/static/js/main.9f1c7817.js",
     "static/js/453.3e5a4126.chunk.js": "/hungr/static/js/453.3e5a4126.chunk.js",
     "static/media/logo.svg": "/hungr/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/hungr/index.html",
     "main.f855e6bc.css.map": "/hungr/static/css/main.f855e6bc.css.map",
-    "main.46869126.js.map": "/hungr/static/js/main.46869126.js.map",
+    "main.9f1c7817.js.map": "/hungr/static/js/main.9f1c7817.js.map",
     "453.3e5a4126.chunk.js.map": "/hungr/static/js/453.3e5a4126.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.46869126.js"
+    "static/js/main.9f1c7817.js"
   ]
 }
